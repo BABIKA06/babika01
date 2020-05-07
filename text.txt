@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7235-63EE
+
+ Directory of C:\Users\elcot\Desktop\m
+
+07-05-2020  16:30    <DIR>          .
+07-05-2020  16:30    <DIR>          ..
+07-05-2020  16:30                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,167,756,288 bytes free
